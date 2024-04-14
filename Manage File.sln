@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "managementFile.DAO", "manag
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "managementFile.DTO", "managementFile.DTO\managementFile.DTO.csproj", "{E3D687F9-33E4-4103-AC59-36C1D97056F8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "managementFile.BLL", "managementFile.Service\managementFile.BLL.csproj", "{28B1DD0F-32DF-48F8-BD78-B60C54B3CB6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "managementFile.BLL", "managementFile.BLL\managementFile.BLL.csproj", "{28B1DD0F-32DF-48F8-BD78-B60C54B3CB6B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "managementFile.BackendApi", "managementFile.BackendApi\managementFile.BackendApi.csproj", "{22982E60-3065-4691-BCC1-EB81A73FC899}"
 EndProject

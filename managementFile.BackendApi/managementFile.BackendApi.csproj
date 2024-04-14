@@ -14,7 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\managementFile.DAO\managementFile.DAO.csproj" />
-    <ProjectReference Include="..\managementFile.Service\managementFile.BLL.csproj" />
+    <ProjectReference Include="..\managementFile.BLL\managementFile.BLL.csproj" />
   </ItemGroup>
 
 </Project>

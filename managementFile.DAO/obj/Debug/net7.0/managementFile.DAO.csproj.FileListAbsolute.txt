@@ -1,0 +1,15 @@
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DAO\bin\Debug\net7.0\managementFile.DAO.deps.json
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DAO\bin\Debug\net7.0\managementFile.DAO.dll
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DAO\bin\Debug\net7.0\managementFile.DAO.pdb
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DAO\obj\Debug\net7.0\managementFile.DAO.csproj.AssemblyReference.cache
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DAO\obj\Debug\net7.0\managementFile.DAO.GeneratedMSBuildEditorConfig.editorconfig
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DAO\obj\Debug\net7.0\managementFile.DAO.AssemblyInfoInputs.cache
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DAO\obj\Debug\net7.0\managementFile.DAO.AssemblyInfo.cs
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DAO\obj\Debug\net7.0\managementFile.DAO.csproj.CoreCompileInputs.cache
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DAO\obj\Debug\net7.0\managementFile.DAO.dll
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DAO\obj\Debug\net7.0\refint\managementFile.DAO.dll
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DAO\obj\Debug\net7.0\managementFile.DAO.pdb
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DAO\obj\Debug\net7.0\ref\managementFile.DAO.dll
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DAO\bin\Debug\net7.0\managementFile.DTO.dll
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DAO\bin\Debug\net7.0\managementFile.DTO.pdb
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DAO\obj\Debug\net7.0\managementFile.DAO.csproj.CopyComplete

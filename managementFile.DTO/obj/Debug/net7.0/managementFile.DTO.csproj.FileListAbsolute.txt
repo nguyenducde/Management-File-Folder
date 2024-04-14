@@ -1,0 +1,12 @@
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DTO\bin\Debug\net7.0\managementFile.DTO.deps.json
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DTO\bin\Debug\net7.0\managementFile.DTO.dll
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DTO\bin\Debug\net7.0\managementFile.DTO.pdb
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DTO\obj\Debug\net7.0\managementFile.DTO.csproj.AssemblyReference.cache
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DTO\obj\Debug\net7.0\managementFile.DTO.GeneratedMSBuildEditorConfig.editorconfig
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DTO\obj\Debug\net7.0\managementFile.DTO.AssemblyInfoInputs.cache
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DTO\obj\Debug\net7.0\managementFile.DTO.AssemblyInfo.cs
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DTO\obj\Debug\net7.0\managementFile.DTO.csproj.CoreCompileInputs.cache
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DTO\obj\Debug\net7.0\managementFile.DTO.dll
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DTO\obj\Debug\net7.0\refint\managementFile.DTO.dll
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DTO\obj\Debug\net7.0\managementFile.DTO.pdb
+F:\learnProgram\C#\SSO\management-file-folder\managementFile.DTO\obj\Debug\net7.0\ref\managementFile.DTO.dll

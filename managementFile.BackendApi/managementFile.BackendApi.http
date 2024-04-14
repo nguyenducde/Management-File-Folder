@@ -1,0 +1,11 @@
+@managementFile.BackendApi_HostAddress = http://localhost:5237
+
+GET {{managementFile.BackendApi_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{managementFile.BackendApi_HostAddress}}/todos/1
+Accept: application/json
+
+###

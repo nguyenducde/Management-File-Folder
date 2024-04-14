@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bvTwKATshdowkXuW02C17SH6Fppyd7HeumyJGatNdjc+w1kjyEZ4X+w/InRsO/I3wfmveyM5+cOtDAm2tCilow==",
+  "success": true,
+  "projectFilePath": "F:\\learnProgram\\C#\\SSO\\management-file-folder\\managementFile.BackendApi\\managementFile.BackendApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\My Computer\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\7.0.7\\runtime.win-x64.microsoft.dotnet.ilcompiler.7.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
